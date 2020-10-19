@@ -1,4 +1,4 @@
-module github.com/usmanhalalit/gost
+module github.com/redeyeapps/gost
 
 go 1.13
 

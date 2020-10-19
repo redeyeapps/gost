@@ -1,7 +1,7 @@
 package local
 
 import (
-	"github.com/usmanhalalit/gost"
+	"github.com/redeyeapps/gost"
 	"io/ioutil"
 	"os"
 	"strings"

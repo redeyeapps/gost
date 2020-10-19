@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/usmanhalalit/gost"
+	"github.com/redeyeapps/gost"
 	"io"
 	"io/ioutil"
 	"path/filepath"

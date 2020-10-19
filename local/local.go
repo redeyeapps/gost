@@ -2,7 +2,7 @@ package local
 
 import (
 	"errors"
-	"github.com/usmanhalalit/gost"
+	"github.com/redeyeapps/gost"
 )
 
 type filesystem struct {

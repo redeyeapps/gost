@@ -3,7 +3,7 @@ package local
 import (
 	"errors"
 	"fmt"
-	"github.com/usmanhalalit/gost"
+	"github.com/redeyeapps/gost"
 	"io"
 	"io/ioutil"
 	"os"
